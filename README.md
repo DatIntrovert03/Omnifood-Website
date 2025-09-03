@@ -69,9 +69,7 @@ Pull requests welcome! If you'd like to add new sections (e.g., testimonials, co
 
 MIT License
 
----
-
 Built for the future of food delivery 💡🥗
-```
 
-Let me know if you’d like help adding preview images, SEO tags, or turning this into a portfolio-ready showcase. I can also help you align it with your Orbital Core branding for extra polish.
+
+
